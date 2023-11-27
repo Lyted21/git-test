@@ -1,3 +1,5 @@
 Hello beautiful world!
 
 My name is Fatima!
+
+Testing new message editor.
